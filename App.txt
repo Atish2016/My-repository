@@ -1,0 +1,24 @@
+SIMPLE ARRAY PROGRAMME
+-------------------------
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		int [] values;
+		values=new int[4];
+		values[0]=10;
+		values[1]=20;
+		values[2]=30;
+		values[3]=40;
+		System.out.println("first value is: " +values[0]);
+		System.out.println("second value is: " +values[1]);
+		System.out.println("third value is: " +values[2]);
+		System.out.println("forth value is: " +values[3]);
+
+
+
+
+	}
+
+}

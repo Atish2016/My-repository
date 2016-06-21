@@ -1,0 +1,14 @@
+ARRAYS OF STRING
+--------------------
+
+
+public class App {
+
+	public static void main(String[] args) {
+		String[] text={"read", "write", "see", "sit"};
+		for(String texts: text){
+			System.out.println(texts);
+		}
+	}
+
+}
